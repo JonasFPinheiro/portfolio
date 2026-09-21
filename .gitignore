@@ -1,0 +1,41 @@
+# Portfólio: só documentação e trechos reescritos. Nada abaixo deve chegar ao GitHub.
+
+# Lista local de termos proibidos — ela mesma é sensível (nomes reais, domínios, fornecedores)
+.sensiveis.txt
+
+# Contexto de agentes de IA e notas internas: carregam dado interno demais
+.claude/
+.claude-flow/
+CLAUDE.md
+AGENTS.md
+*CONTEXTO*
+*cerebro*
+*cérebro*
+docs/superpowers/
+
+# Segredos e configuração local
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials*
+*secret*
+
+# Dados e artefatos que costumam carregar informação real
+*.csv
+*.xlsx
+*.xls
+*.sql
+*.sqlite
+*.dump
+*.bak
+*.pdf
+*.zip
+
+# Ruído de editor e sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+node_modules/
