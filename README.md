@@ -12,7 +12,7 @@ Desenvolvimento e produto digital com foco em **transformar rotinas manuais em s
 |---|---|---|---|
 | 1 | [**Ultra** — plataforma de gestão](./projetos/01-plataforma-de-gestao/README.md) | Painel único que unifica cupons, cortesias, conteúdo do site e do app e medição de jornada | Co-idealização, integrações e desenvolvimento |
 | 2 | [**Home do aplicativo mobile**](./projetos/02-aplicativo-mobile/README.md) | Tela inicial 100% dirigida por dados, sem publicar versão na loja | Desenvolvimento em equipe |
-| 3 | [**Painel de parceiros comerciais**](./projetos/03-painel-de-comissarios/README.md) | Vendas, comissão e ranking de cada parceiro em tempo quase real, com integração direta à bilheteria | Ideação e execução, sozinho |
+| 3 | [**Painéis de parceiros comerciais**](./projetos/03-painel-de-comissarios/README.md) | Dois painéis: o dos comissários e o de um festival inteiro, com seis perfis, regras de comissão por perfil e integração direta à bilheteria | Ideação e execução, sozinho |
 | 4 | [**Landing pages de campanha**](./projetos/04-landing-pages-de-campanha/README.md) | Páginas de venda e captação, cada uma com a tecnologia certa para o caso | Desenvolvimento |
 | 5 | [**Captação de leads pré-venda**](./projetos/05-captacao-de-leads-pre-venda/README.md) | Mais de 11,7 mil cadastros antes da abertura das vendas de um show de estádio, com painel de análise | Concepção, full-stack e dados |
 | 6 | [**Hub de venda do festival**](./projetos/06-hub-de-venda-do-festival/README.md) | Programação inteira e checkout direto, com expiração automática de shows | Desenvolvimento |
